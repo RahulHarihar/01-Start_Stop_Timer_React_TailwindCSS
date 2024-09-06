@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 ## Live Demo
 
-You can view the live version of this project [here](01-start-stop-timer-react-tailwind-css.vercel.app).
+You can view the live version of this project [here](01-start-stop-timer.vercel.app).
 
