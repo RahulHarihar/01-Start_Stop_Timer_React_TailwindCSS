@@ -9,5 +9,6 @@ Currently, two official plugins are available:
 
 ## Live Demo
 
-You can view the live version of this project [here](01-start-stop-timer.vercel.app).
+You can view the live version of this project <a href="https://01-start-stop-timer.vercel.app/" target="_blank">here</a>.
+
 
